@@ -1,0 +1,15 @@
+Before
+AC = OFF
+Light = ON
+Fan = ON
+
+Energy = 0.175 kW
+
+
+After
+AC = ON
+Light = ON
+Fan = ON
+
+Energy = 1.675 kW
+🚨 High Energy
